@@ -2,7 +2,7 @@
 """
 Created on Sun Jun 19 13:39:23 2016
 
-@author: buttfive
+@author: Bryce Chriestenson
 """
 
 #Import the necessary packages.
